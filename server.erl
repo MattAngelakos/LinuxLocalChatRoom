@@ -1,5 +1,3 @@
-%Name: Natthew Angelakos, Elliot Niemann
-%Pledge: I pledge my honor that I have abided by the Stevens Honor System.
 -module(server).
 
 -export([start_server/0]).

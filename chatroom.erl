@@ -1,5 +1,3 @@
-%Name: Natthew Angelakos, Elliot Niemann
-%Pledge: I pledge my honor that I have abided by the Stevens Honor System.
 -module(chatroom).
 
 -include_lib("./defs.hrl").
